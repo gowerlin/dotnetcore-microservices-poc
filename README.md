@@ -1,6 +1,6 @@
 # ASCLAB .NET Core PoC - LAB Insurance Sales Portal
 
-## forked from asc-lab/dotnetcore-microservices-poc (2023/01/17)
+##  (2023/01/17) forked from [asc-lab/dotnetcore-microservices-poc](https://github.com/asc-lab/dotnetcore-microservices-poc)
 
 [![Build Status](https://travis-ci.org/asc-lab/dotnetcore-microservices-poc.svg?branch=master)](https://travis-ci.org/asc-lab/dotnetcore-microservices-poc)
 
